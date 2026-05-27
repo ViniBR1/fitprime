@@ -1,2 +1,3 @@
-NEXT_PUBLIC_SUPABASE_URL=YOUR_URL
-NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_KEY
+module.exports = {
+  reactStrictMode: true,
+}
